@@ -1,0 +1,1 @@
+export const createAddPerson=person=>({type:'AddPerson',data:person})
